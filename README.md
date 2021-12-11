@@ -1,6 +1,6 @@
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) The Instagram Photo Feed - Prework
 
-✏ *Using everything you have learned with HTML and CSS3, please create a website that replicates this gif: **<https://raw.githubusercontent.com/breatheco-de/exercise-instagram-feed/master/preview.gif>***
+✏ *Using everything you have learned with HTML and CSS3, please create a website that replicates this gif: **<https://raw.githubusercontent.com/breatheco-de/exercise-instagram-feed/master/preview.gif>***.
 
 ## What to do next?
 
